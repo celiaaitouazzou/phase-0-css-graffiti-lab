@@ -1,1 +1,26 @@
-/* write your override styles here */
+/* write your override styles here 
+
+*/
+#wall div {
+    display: none;
+}
+
+
+#wall div#tag-2{
+    display: none;
+}
+
+div#wall div#tag-3.slick{
+    display: none;
+}
+
+#wall div#tag-2{
+    background: url(../images/graphitti_celia_1.jpg) no-repeat center;
+    display: block;
+    position: relative;
+    margin: 40px auto;
+    width: 1000px;
+    height: 1000px;
+    z-index: 7;
+    
+}
